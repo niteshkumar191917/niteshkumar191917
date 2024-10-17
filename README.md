@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Nitesh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **react**
+- 🔭 I’m currently working on **.Net**
 
 - 🌱 I’m currently learning **Next.js**
 
 - 📝 I regularly write articles on [https://blog-site-kappa-orcin.vercel.app/](https://blog-site-kappa-orcin.vercel.app/)
 
-- 💬 Ask me about **react, web design**
+- 💬 Ask me about **.net, web application, web design**
 
 - 📫 How to reach me **niteshpoonia1998@gmail.com**
 
